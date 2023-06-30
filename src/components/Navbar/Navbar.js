@@ -1,11 +1,9 @@
 import React, { useState } from 'react';
 import './navbar.css';
-import { Link } from 'react-router-dom';
 import About from '../about/About';
 import Portfolio from '../portfolio/Portfolio';
-import TechStacks from '../TechStacks/TechStacks';
+import Index from '../TechStacks/Index';
 import Contact from '../Contact/Contact';
-import Logo from '../../assets/images/logo.png'
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -33,7 +31,7 @@ const Navbar = () => {
       </nav>
       <About />
       <Portfolio/>
-      <TechStacks/>
+    <Index/>
       <Contact/>
       </>
   );

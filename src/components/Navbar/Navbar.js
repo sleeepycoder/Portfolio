@@ -23,7 +23,7 @@ const Navbar = () => {
           <ul className="menu">
              
               <li>
-                  <a href='https://drive.google.com/file/d/1XrpxB460PNwb2ZwXD-ttjCnCD2j4RWVx/view?usp=share_link' download>Resume</a>
+                  <a href='https://drive.google.com/file/d/1QBrcfj3XsAXoJcCc-2raxRzJULWG3Iwn/view?usp=drive_link' download>Resume</a>
               </li>
              
              

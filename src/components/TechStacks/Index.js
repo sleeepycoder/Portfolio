@@ -24,6 +24,7 @@ const Index = () => {
           {
             percentage: "60%",
             color: "#008080",
+            
           },
         ]}
       />

@@ -1,7 +1,6 @@
 import React from 'react';
 import './portfolio.css';
 import projects from '../../db.json'
-import {FaSafari } from "react-icons/fa";
 const Portfolio = () => {
   return (
     <section className="project-section">

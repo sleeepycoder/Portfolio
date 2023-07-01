@@ -44,6 +44,7 @@ const ProgressLine = ({
                 width: widths[index],
 
                 backgroundColor: item.color,
+               
               }}
               className="progressVisualPart"
             />
